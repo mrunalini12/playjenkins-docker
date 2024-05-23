@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "mrunalini12/bootcamp"
+    registry = "mrunalini12/mrunalinibootcamp"
     registryCredential = 'dockerhub'
     dockerImage = ""
   }
